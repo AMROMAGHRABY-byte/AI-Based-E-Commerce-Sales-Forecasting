@@ -4,3 +4,6 @@ This project uses machine learning to predict future online sales based on produ
 <a target="_blank" href="https://colab.research.google.com/github/AMROMAGHRABY-byte/AI-Based-E-Commerce-Sales-Forecasting/blob/main/notebooks/run_sales_forecast.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
+<a target="_blank" href="https://colab.research.google.com/github/AMROMAGHRABY-byte/AI-Based-E-Commerce-Sales-Forecasting/blob/main/notebooks/run_sales_forecast.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+</a>
