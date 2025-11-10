@@ -1,0 +1,63 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "# AI-Based E-Commerce Sales Forecasting (Colab Runner)\n",
+        "\n",
+        "This notebook clones the GitHub repo, installs dependencies, and runs `sales_forecast.py`."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://colab.research.google.com/"
+        },
+        "id": "clone"
+      },
+      "outputs": [],
+      "source": [
+        "!git clone https://github.com/AMROMAGHRABY-byte/AI-Based-E-Commerce-Sales-Forecasting\n",
+        "%cd AI-Based-E-Commerce-Sales-Forecasting"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "deps"
+      },
+      "outputs": [],
+      "source": [
+        "!pip -q install pandas scikit-learn matplotlib"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "run"
+      },
+      "outputs": [],
+      "source": [
+        "%run sales_forecast.py"
+      ]
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python",
+      "version": ""
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
